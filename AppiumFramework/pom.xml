@@ -58,13 +58,7 @@
     		<artifactId>AppiumFrameWorkDesign</artifactId>
     		<version>0.0.1-SNAPSHOT</version>
     	</dependency>
-    	<dependency>
-    		<groupId>org.example</groupId>
-    		<artifactId>
-    			appium-cucumber-junit5-mobile-automation-framework
-    		</artifactId>
-    		<version>1.0.0</version>
-    	</dependency>
+    	
     	<dependency>
     		<groupId>lao</groupId>
     		<artifactId>WebDriverManager</artifactId>
